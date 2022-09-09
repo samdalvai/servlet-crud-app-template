@@ -6,13 +6,6 @@ The purpose of this project is to provide a template for a simple Java Servlet C
 The application is based on a tutorial, which can be found at this [website](https://www.codejava.net/coding/jsp-servlet-jdbc-mysql-create-read-update-delete-crud-example)
 The persistence layer is provided by the [Esfinge Querybuilder](http://esfinge.sourceforge.net/Query%20Builder.html) framework.
 
-
-# Table of Contents
-* [What is included](#what-is-included)
-* [Application Prerequisites](#application-prerequisites)
-* [How to configure the project](#how-to-configure-the-project)
-* [How to run the project](#how-to-run-the-project)
-
 ## What is included
 * Basic template for `Java JSP Web` CRUD application
 * Persistence layer based on `Esfinge Querybuilder` framework, configured for `MySQL`
