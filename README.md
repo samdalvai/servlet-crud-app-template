@@ -25,4 +25,4 @@ The persistence layer is provided by the [Esfinge Querybuilder](http://esfinge.s
 ## How to run the project
 * Run `docker-compose up --build -d` to run the tomcat server and the database.
 * The configuration should load all the queries found in `sql/Bookstore.sql` automatically the first time the docker container is created, if this is not the case you might need to run all of them manually.
-* Visit [localhost:8080/BookstoreApp-1.0-SNAPSHOT/](http://localhost:8080/BookstoreApp-1.0-SNAPSHOT/) in the browser to access the application.
+* Visit http://localhost:8080/BookstoreApp-1.0-SNAPSHOT/ in the browser to access the application.
