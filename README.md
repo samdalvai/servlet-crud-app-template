@@ -10,7 +10,6 @@ The persistence layer is provided by the [Esfinge Querybuilder](http://esfinge.s
 * Basic template for `Java JSP Web` CRUD application
 * Persistence layer based on `Esfinge Querybuilder` framework, configured for `MySQL`
 * Docker definition for web application with `tomcat` and `MySQL` database
-* `Cypress` framework with basic tests for end-to-end testing
 
 ## Application Prerequisites
 
